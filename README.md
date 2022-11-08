@@ -1,6 +1,6 @@
 # C# Web application
 
-Attempt at creating a web application using ASP.NET core
+Attempt at creating a web application using ASP.NET core (MVC)
 
 ### Issues:
 
