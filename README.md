@@ -11,7 +11,9 @@ Attempt at creating a web application using ASP.NET core (MVC)
   Currently `https://localhost:7007/` or `http://localhost:5107/`
 
 3. Installed Entity Framework to allow for migrations on existing dbs. `dotnet tool install --global dotnet-ef`
+   <br/>
    3a. Updated `.zshrc` file with `export PATH="$PATH:/Users/<username>/.dotnet/tools"` to allow for usage of ef in session.
+   <br/>
    3b. `zsh -l` to load configs for coloring
 
 ### Issues:
