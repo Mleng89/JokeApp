@@ -5,10 +5,17 @@ using System.Threading.Tasks;
 
 namespace JokeWebApp.Models
 {
-    public class Jokes
+    public class Joke
     {
         public int Id { get; set; }
         public string? JokeQuestion { get; set; }
         public string? JokeAnswer { get; set; }
+
+        //ctor shortcut for constructor
+         public Joke()
+        {
+
+        }
     }
+
 }
